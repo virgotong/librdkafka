@@ -1,3 +1,4 @@
+/* send data to kafka from file*/
 #include <stdio.h>
 #include "rdkafka.h"
 #include <string.h>
